@@ -5,9 +5,9 @@ description: 在 Windows 的 WSL2（Debian）裡部署本地 LLM 的完整步驟
 
 # 在 WSL2 部署本地模型
 
-最後更新：2026-10-30
-作者：welly118
-編輯：Claude Sonnet5.5
+- 最後更新：2026-10-30
+- 作者：welly118
+- 編輯：Claude Sonnet5.5
 
 ## 適用環境
 
